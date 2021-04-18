@@ -14,7 +14,7 @@ export function RegistrationScreen() {
     <Heading>REGISTRATION</Heading>
     <IconButton
       style = {styles.closeIcon}
-      name = {'ios-add'}
+      name = {'ios-apps'}
       onPress = {() => {
       navigation.pop();
     }} />
